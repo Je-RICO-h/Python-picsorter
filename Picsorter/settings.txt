@@ -1,0 +1,5 @@
+{   
+    "__Note__": "True vagy False ertekek az elfogadottak!",
+    "subfold": false,
+    "delpar": true
+}
